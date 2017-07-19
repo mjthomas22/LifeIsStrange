@@ -1,4 +1,9 @@
-﻿
+﻿/*General Styling*/
+
+body {
+background-color:#fff6f0;
+}
+
 ﻿ /*header Styles*/
 #logoImg {
     width: 200px;
@@ -29,8 +34,16 @@ nav#navvy.navbar.navbar-static-top {
 /*Trailer Sections*/
 .mainSec {
     background-image: url('images/junkyard.jpg');
-    background-size:cover;
+    background-size: cover;
 }
-h1.container-fluid#trailer{ 
-    text-align:right;
+
+h1.container-fluid#trailer {
+    text-align: right;
+}
+
+
+/*Preview section Styling*/
+
+.previewThem {
+    margin: auto
 }
