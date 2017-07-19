@@ -3,9 +3,26 @@
 #logoImg {
     width: 200px;
 }
-div.page-header{
-    margin-top:0;
+
+div.page-header {
+    margin-top: 0;
     background-color: #E8D6CF;
-    padding-top:3px;
-    margin-bottom:0;
+    padding-top: 3px;
+    margin-bottom: 0;
+}
+
+/*nav Bar styling*/
+
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom: 0;
+    background-color: #6A1525;
+    
+}
+
+#navvy a {
+    color: #fff6F0;
+}
+
+#navvy a:hover{
+    background:none;
 }
